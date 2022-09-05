@@ -1,2 +1,3 @@
 # FlexFinanceChallenge
-![Simulator Screen Shot - iPhone 12 - 2022-09-05 at 04 13 55](https://user-images.githubusercontent.com/82869130/188353883-2b7e67ad-3deb-4346-9f70-1c72ffd62299.png)
+
+![Simulator Screen Shot - iPhone 13 - 2022-09-05 at 13 33 58](https://user-images.githubusercontent.com/82869130/188450465-4fb8a1b6-b319-4bbd-8c60-7b53796c11bc.png)
